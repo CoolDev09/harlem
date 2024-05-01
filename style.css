@@ -1,0 +1,75 @@
+body {
+    background-color: #5f0d0dae;
+    color: #ffffff;
+}
+
+#jim {
+    color:#ffffff; 
+    background-color: #000000;
+    border-radius: 15px;
+    height: 250px;
+    width: 350px;
+    cursor: pointer;
+}
+
+#codes {
+    color:#ffffff; 
+    background-color: #000000;
+    border-radius: 15px;
+    height: 250px;
+    width: 350px;
+    cursor: pointer;
+}
+
+#migration {
+    color:#ffffff; 
+    background-color: #000000;
+    border-radius: 15px;
+    height: 250px;
+    width: 350px;
+    cursor: pointer;
+}
+
+#qol {
+    color:#ffffff; 
+    background-color: #000000;
+    border-radius: 15px;
+    height: 250px;
+    width: 350px;
+    cursor: pointer;
+}
+
+#slavery {
+    color:#ffffff; 
+    background-color: #000000;
+    border-radius: 15px;
+    height: 250px;
+    width: 350px;
+    cursor: pointer;
+}
+
+#art {
+    color:#ffffff; 
+    background-color: #000000;
+    border-radius: 15px;
+    height: 250px;
+    width: 350px;
+    cursor: pointer;
+}
+
+#harlemphoto {
+    height: 250px;
+}
+
+#blackcodejpeg {
+    height: 150px;
+}
+
+#jimmy {
+    height: 150px;
+    width: 300px;
+}
+
+#pages {
+    height: 400px;
+}
